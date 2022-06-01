@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
+    <title>Search</title>
+</head>
+<body>
+    <header class="header" id="header">
+        <a href="./index.html" class="logo">
+            <h1>Soul Society</h1>
+        </a>
+        <div class="toggleMenu" id="toggleMenu"></div>
+        <div class="searchDrawer">
+            <input type="text" name="search" class="searchInput" id="search" placeholder="Search Article">
+        </div>
+    </header>
+    
+    <main class="main">
+        <div class="allCards" data-all-card-container>
+            <h3 class="heading textResult"></h3>
+            <template data-card-template>
+                <div class="card">
+                    <a href="" data-card-link>
+                        <h2 class="title" data-header></h2>
+                        <span class="tag" data-card-tag></span>
+                    </a>
+                </div>
+            </template>
+        </div>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="./js/script.js"></script>
+</body>
+</html>

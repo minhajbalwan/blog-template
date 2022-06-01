@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "New report highlights global success of small businesses on the App Store",
+        "tag": "Apple",
+        "searchTag": "Apple",
+        "url": ""
+    },{
+        "id": 2,
+        "title": "Street View turns 15 with a new camera and fresh features",
+        "tag": "Google Maps",
+        "searchTag": "Google Maps",
+        "url": ""
+    },{
+        "id": 3,
+        "title": "Apple's Worldwide Developers Conference kicks off June 6 with keynote address",
+        "tag": "Apple",
+        "searchTag": "Apple",
+        "url": ""
+    },{
+        "id": 4,
+        "title": "Apple introduces new professional training to support growing IT workforce",
+        "tag": "Apple Update",
+        "searchTag": "Apple Update",
+        "url": ""
+    },{
+        "id": 5,
+        "title": "Look closer and take better notes with your Chromebook chromeos",
+        "tag": "Chrome OS",
+        "searchTag": "Google Chrome OS Google OS Google operating system Google Operating System",
+        "url": ""
+    },{
+        "id": 6,
+        "title": "Google I/O 2022: Advancing knowledge and computing",
+        "tag": "Google I/O",
+        "searchTag": "Google I/O Google I O Google IO",
+        "url": ""
+    },
+    {
+        "id": 7,
+        "title": "Apple unveils new Apple Watch Pride Edition bands",
+        "tag": "Press Release Apple",
+        "searchTag": "Apple Press Release Apple",
+        "url": ""
+    }
+]
